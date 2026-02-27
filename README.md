@@ -47,12 +47,19 @@ Longer reflections and exploratory analysis related to AI evaluation and alignme
 
 ---
 
-# Focus Areas
+## Evaluation Themes
 
-This portfolio focuses on several evaluation themes:
+The analyses in this repository focus on several recurring alignment challenges:
 
-• alignment and specification gaming  
-• credibility and information accuracy  
-• persuasion dynamics in AI communication  
-• safety implications of model behavior  
-• expectation calibration in human–AI interfaces
+• reasoning quality and logical consistency
+• rhetorical framing and persuasive bias
+• reward hacking and instruction misinterpretation
+• safety risks arising from conversational AI systems
+• credibility and trustworthiness in AI responses
+
+---
+
+# About
+
+Justin Emmanuel  
+Computer Science graduate with professional software engineering experience and a focus on AI reasoning evaluation and alignment analysis.
