@@ -1,34 +1,27 @@
 # AI Evaluation Portfolio
 
-Portfolio of analysis, evaluation, and writing work focused on AI systems, reasoning quality, and content review.
+Portfolio of analysis, evaluation, and writing work focused on AI systems: reasoning quality, factuality, safety, and content review.
 
-## Overview
+## What’s in here
 
-This repository contains selected examples of analytical work related to evaluating AI systems. The focus is on reasoning quality, factual accuracy, safety considerations, and structured evaluation methods.
+- **Case Studies** — short write-ups of specific model failures and how to correct them
+- **Evaluations** — structured reviews of outputs using consistent criteria
+- **Frameworks** — rubrics and checklists used to evaluate responses
+- **Writing** — short notes on evaluation approach and principles
 
-The goal is to demonstrate clear thinking, structured analysis, and careful review of AI-generated outputs.
+## Quick links
 
-## Repository Structure
+- [Case Studies](./case-studies)
+- [Evaluations](./evaluations)
+- [Frameworks](./frameworks)
+- [Writing](./writing)
 
-### case-studies
-Short analytical write-ups examining specific AI behaviors or outputs.
+## Focus areas
 
-### evaluations
-Examples of structured evaluation tasks, including response comparisons and quality assessments.
-
-### frameworks
-Evaluation frameworks and rubrics designed for assessing AI responses.
-
-### writing
-General writing and analysis related to AI evaluation and reasoning.
-
-## Focus Areas
-
-- AI response evaluation
-- Fact-checking and verification
-- Reasoning quality analysis
-- Safety and policy considerations
-- Structured content review
+- Factual accuracy and hallucination detection
+- Reasoning quality (coherence, completeness, hidden assumptions)
+- Safety and policy alignment (refusals, risky advice, prompt injection)
+- Tone and user experience (helpfulness, clarity, boundary-setting)
 
 ## Author
 
