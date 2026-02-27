@@ -1,9 +1,7 @@
 # Evaluations
 
-Structured reviews of AI responses using consistent criteria.
+Structured reviews of AI responses focusing on reasoning quality, factual accuracy, and safety.
 
-Evaluations focus on:
-- factual accuracy
-- reasoning quality
-- safety
-- usefulness to the user
+## Current evaluations
+
+- Contextual accuracy in religious quotation (Grok)
