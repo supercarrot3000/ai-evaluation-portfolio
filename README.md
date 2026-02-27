@@ -1,28 +1,58 @@
 # AI Evaluation Portfolio
 
-Portfolio of analysis, evaluation, and writing work focused on AI systems: reasoning quality, factuality, safety, and content review.
+This repository contains structured evaluations and case studies analyzing the behavior, communication, and safety implications of modern AI systems.
 
-## What’s in here
+The goal of this portfolio is to demonstrate practical evaluation skills across several areas:
 
-- **Case Studies** — short write-ups of specific model failures and how to correct them
-- **Evaluations** — structured reviews of outputs using consistent criteria
-- **Frameworks** — rubrics and checklists used to evaluate responses
-- **Writing** — short notes on evaluation approach and principles
+• response accuracy and credibility  
+• communication quality and persuasion dynamics  
+• safety implications of model behaviour  
+• alignment and reward-hacking risks  
+• human–AI interface design
 
-## Quick links
+---
 
-- [Case Studies](./case-studies)
-- [Evaluations](./evaluations)
-- [Frameworks](./frameworks)
-- [Writing](./writing)
+# Portfolio Structure
 
-## Focus areas
+## Evaluations
 
-- Factual accuracy and hallucination detection
-- Reasoning quality (coherence, completeness, hidden assumptions)
-- Safety and policy alignment (refusals, risky advice, prompt injection)
-- Tone and user experience (helpfulness, clarity, boundary-setting)
+Analyses of specific AI responses and their implications.
 
-## Author
+- [Contextual Accuracy Evaluation – Grok Religious Text Response](evaluations/evaluation-01-contextual-accuracy-grok.md)
+- [Communication Manipulation Risk – Pathos Dominance](evaluations/evaluation-02-pathos-dominance-safety.md)
 
-Justin Emmanuel
+---
+
+## Case Studies
+
+Conceptual analyses of AI failure patterns and alignment challenges.
+
+- [Literal Instruction Optimization and Alignment Risk](case-studies/case-study-alignment-intent-and-interface.md)
+
+---
+
+## Frameworks
+
+Evaluation frameworks and structured methodologies for analyzing AI systems.
+
+*(future work)*
+
+---
+
+## Writing
+
+Longer reflections and exploratory analysis related to AI evaluation and alignment.
+
+*(future work)*
+
+---
+
+# Focus Areas
+
+This portfolio focuses on several evaluation themes:
+
+• alignment and specification gaming  
+• credibility and information accuracy  
+• persuasion dynamics in AI communication  
+• safety implications of model behavior  
+• expectation calibration in human–AI interfaces
